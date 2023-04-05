@@ -1,4 +1,4 @@
-# React Food App
+# Responsive React Food App
 
 <h2>https://react-foods-app.netlify.app/</h2>
 
